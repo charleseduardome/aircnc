@@ -17,7 +17,7 @@
 _To make your own changes, please create your cluster in <a href="https://www.mongodb.com/">MongoDB Atlas</a>_
 
 After create and init the cluster, change the database config in <b>backend/src/server.js</b> file<br/>
-`mongoose.connect('your-mongodb-connect-here)`<br/>
+`mongoose.connect('your-mongodb-connect-here')`<br/>
 
 :heavy_exclamation_mark: The backend will start on 3333 port
 
